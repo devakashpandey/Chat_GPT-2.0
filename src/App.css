@@ -16,3 +16,8 @@
   background: #7aebfb;
   filter: blur(210px);
 }
+
+::selection {
+  color: #7aebfb;
+  background: #1a232e;
+}
